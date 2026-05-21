@@ -84,6 +84,8 @@ Areas investigated include:
 - Admission frequency
 - High-volume admission periods
 - Emergency admission patterns
+  ![Emergency](Images/1.png)
+  
 
 ### Medication and Test Analysis
 
