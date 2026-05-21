@@ -84,8 +84,6 @@ Areas investigated include:
 - Admission frequency
 - High-volume admission periods
 - Emergency admission patterns
-  ![Emergency](Images/1.png)
-  
 
 ### Medication and Test Analysis
 
@@ -274,6 +272,8 @@ This section explored:
 - Frequently occurring medical conditions
 - Conditions contributing significantly to revenue
 - Conditions associated with longer hospital stays
+  <img width="1244" height="302" alt="1" src="https://github.com/user-attachments/assets/9c334358-10c8-40c9-a51c-c1abc9bb6b1d" />
+
 
 ### Revenue and Financial Analysis
 
@@ -291,6 +291,8 @@ Areas investigated include:
 - Admission frequency
 - High-volume admission periods
 - Emergency admission patterns
+  <img width="1196" height="559" alt="4" src="https://github.com/user-attachments/assets/ae808b95-025a-4564-bcd1-5fac2b79b491" />
+
 
 ### Medication and Test Analysis
 
